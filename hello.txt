@@ -1,1 +1,2 @@
 Hello, ff-merge!
+ブランチAでの作業です。
